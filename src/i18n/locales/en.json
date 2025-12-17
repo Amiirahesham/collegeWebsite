@@ -1,0 +1,111 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "departments": "Departments",
+    "services": "Services",
+    "login": "Login",
+    "register": "Register",
+    "dashboard": "Dashboard",
+    "logout": "Logout"
+  },
+  "hero": {
+    "title": "Faculty of Artificial Intelligence",
+    "subtitle": "Kafrelsheikh University",
+    "description": "Shaping the future of AI innovation in Egypt. Join us in pioneering research, cutting-edge education, and transformative technology.",
+    "cta_apply": "Apply Now",
+    "cta_explore": "Explore Programs"
+  },
+  "about": {
+    "title": "About Our Faculty",
+    "description": "The Faculty of Artificial Intelligence at Kafrelsheikh University is a leading institution dedicated to advancing AI research and education in Egypt and the Middle East.",
+    "mission": "Our Mission",
+    "mission_text": "To cultivate the next generation of AI innovators and researchers who will drive technological advancement and solve complex global challenges.",
+    "vision": "Our Vision",
+    "vision_text": "To be the premier center of excellence for artificial intelligence education and research in the Arab world."
+  },
+  "departments": {
+    "title": "Academic Departments",
+    "subtitle": "Discover our specialized departments offering cutting-edge programs",
+    "ai": {
+      "name": "Artificial Intelligence",
+      "description": "Core AI fundamentals, machine learning algorithms, and intelligent systems design."
+    },
+    "ds": {
+      "name": "Data Science",
+      "description": "Big data analytics, statistical modeling, and data-driven decision making."
+    },
+    "cs": {
+      "name": "Computer Science",
+      "description": "Software engineering, algorithms, and computational theory."
+    },
+    "robotics": {
+      "name": "Robotics & Automation",
+      "description": "Autonomous systems, control engineering, and human-robot interaction."
+    }
+  },
+  "services": {
+    "title": "Student Services",
+    "subtitle": "Access essential academic services and support",
+    "documents": {
+      "title": "Document Requests",
+      "description": "Request official academic documents including transcripts, enrollment certificates, and more."
+    },
+    "academic": {
+      "title": "Academic Support",
+      "description": "Get assistance with course registration, academic advising, and study resources."
+    },
+    "career": {
+      "title": "Career Services",
+      "description": "Connect with industry partners, internships, and career development opportunities."
+    },
+    "chatbot": {
+      "title": "AI Assistant",
+      "description": "Get instant answers to your questions with our intelligent chatbot assistant."
+    }
+  },
+  "stats": {
+    "students": "Students",
+    "faculty": "Faculty Members",
+    "programs": "Programs",
+    "research": "Research Papers"
+  },
+  "auth": {
+    "login_title": "Welcome Back",
+    "login_subtitle": "Sign in to access your student portal",
+    "register_title": "Create Account",
+    "register_subtitle": "Join the Faculty of AI community",
+    "email": "Email Address",
+    "password": "Password",
+    "confirm_password": "Confirm Password",
+    "university_id": "University ID",
+    "national_id": "National ID",
+    "full_name": "Full Name",
+    "student_type": "Student Type",
+    "internal": "Faculty Student",
+    "external": "External Student",
+    "remember_me": "Remember me",
+    "forgot_password": "Forgot password?",
+    "no_account": "Don't have an account?",
+    "have_account": "Already have an account?",
+    "sign_in": "Sign In",
+    "sign_up": "Sign Up"
+  },
+  "footer": {
+    "description": "Leading the future of artificial intelligence education and research in Egypt.",
+    "quick_links": "Quick Links",
+    "contact": "Contact Us",
+    "address": "Kafrelsheikh, Egypt",
+    "phone": "+20 47 123 4567",
+    "email": "ai@kfs.edu.eg",
+    "rights": "All rights reserved"
+  },
+  "theme": {
+    "light": "Light Mode",
+    "dark": "Dark Mode"
+  },
+  "language": {
+    "en": "English",
+    "ar": "العربية"
+  }
+}
