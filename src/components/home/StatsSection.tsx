@@ -9,7 +9,7 @@ const StatsSection: React.FC = () => {
   const stats = [
     { icon: Users, value: '2,500+', label: t('stats.students') },
     { icon: GraduationCap, value: '85+', label: t('stats.faculty') },
-    { icon: BookOpen, value: '12', label: t('stats.programs') },
+    { icon: BookOpen, value: '2', label: t('stats.programs') },
     { icon: FileText, value: '450+', label: t('stats.research') },
   ];
 
